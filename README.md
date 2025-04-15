@@ -36,3 +36,13 @@ Modify your termux.properties file.
 ```
 nano ~/.termux/termux.properties
 ```
+# termux-start 
+full package installer with tstyle.
+(about 2.9 gigs)
+```
+git clone https://github.com/ghoste9624/anonybash 
+git pull
+cd anonybash 
+chmod +x termux-start 
+bash termux-start
+```
