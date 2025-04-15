@@ -16,4 +16,3 @@ znap eval iterm2 'curl -fsSL https://iterm2.com/shell_integration/zsh'
 compctl -K    _pyenv pyenv
  
 # `znap install` adds new commands and completions.
-znap install aureliojargas/clitest zsh-users/zsh-completions" >> ~/.zshrc
