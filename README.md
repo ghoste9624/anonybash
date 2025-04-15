@@ -1,5 +1,8 @@
 # anonybash
 
+!Alt Text
+https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-191015_Termux.jpg
+
 One time installation.
 ```
 apt update && apt full-upgrade -y && pkg update && pkg upgrade -y && pkg install git zsh -y 
