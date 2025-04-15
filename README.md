@@ -5,4 +5,5 @@ git clone https://github.com/ghoste9624/anonybash
 cd anonybash 
 chmod +x anon.sh
 bash anon.sh
+exit
 ```
