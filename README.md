@@ -37,7 +37,7 @@ Modify your termux.properties file.
 nano ~/.termux/termux.properties
 ```
 # termux-start 
-full package installer with tstyle.
+Full package installer with tstyle.
 (about 2.9 gigs)
 ```
 git clone https://github.com/ghoste9624/anonybash 
@@ -45,4 +45,15 @@ git pull
 cd anonybash 
 chmod +x termux-start 
 bash termux-start
+```
+# anonyzsh
+Run the following in zsh for autocomplete. Exit zsh and renter for changes.
+```
+cd $HOME
+rm -rf anonybash 
+git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git
+git clone https://github.com/ghoste9624/anonybash 
+cd anonybash 
+chmod 777 -R anonyzsh
+bash anonyzsh
 ```
