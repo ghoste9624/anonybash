@@ -13,6 +13,4 @@ echo "PS1='\e[3m\[\033[1;30m\]\D{%a-%b-%d-%Y}  \e[\033[38;5;214m\@
 
 source ~/.bashrc
 
-termux-reload-settings 
-
 exit
