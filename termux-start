@@ -34,6 +34,8 @@ apt update && apt full-upgrade -y && apt install wget zip unzip python python2 p
 
 pip install google requests setuptools
 
+gem update --system 3.6.8
+
 pkg update && pkg upgrade -y && apt autoclean && apt autoremove -y
  
 clear && echo -e "
