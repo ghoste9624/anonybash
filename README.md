@@ -1,7 +1,7 @@
 # anonybash
 
 !Alt Text
-https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-191015_Termux.jpg
+(https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-191015_Termux.jpg)
 
 One time installation.
 ```
