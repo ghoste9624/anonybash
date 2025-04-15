@@ -1,7 +1,8 @@
 # anonybash
 
 !Alt Text
-(https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-191015_Termux.jpg)
+
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Content-Style-Type" content="text/css"><meta name="generator" content="Aspose.Words for .NET 25.3.0"><title></title><style type="text/css">body { font-family:'Times New Roman'; font-size:12pt }p { margin:0pt }</style></head><body><div><p><img src="images/Aspose.Words.62f1671c-baf2-40d2-bf20-4f93d3cfd92b.001.jpeg" width="466" height="864" alt="" style="-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline"></p></div></body></html>
 
 One time installation.
 ```
