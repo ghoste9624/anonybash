@@ -47,7 +47,7 @@ chmod +x termux-start
 bash termux-start
 ```
 # anonyzsh
-Run the following in zsh for autocomplete. Exit zsh and renter for changes.
+Run the following in zsh for autocomplete. Exit zsh and reenter for changes.
 ```
 cd $HOME
 rm -rf anonybash 
