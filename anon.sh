@@ -25,6 +25,13 @@ color5=#FF00FF
 color6=#00FFFF
 color7=#FFFFFF" >> ~/.termux/colors.properties
 
+echo "terminal-cursor-blink-rate=500
+
+extra-keys = [ \
+ ['ESC','/','-','HOME','UP','END','PGUP','BKSP'], \
+ ['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN','ENTER'] \
+]" >> ~/.termux/termux.properties
+
 termux-reload-settings 
 
 exit
