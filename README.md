@@ -68,7 +68,7 @@ rm -rf anonybash
 git clone https://github.com/ghoste9624/anonybash 
 cd anonybash 
 chmod +x termux-start 
-./termux-start
+./termux-start.sh 
 ```
 # anonyzsh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-163038_Termux.jpg)
