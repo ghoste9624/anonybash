@@ -11,10 +11,9 @@
 * session count
 * green font output
 * added colors
+* termux-start full package installer with tstyle for easy font and theme mods
+* anonyzsh zsh autocomplete
 * setup for easy modifications
-* termux-start package installer
-* tstyle font and theme mods
-* anonyzsh zsh autocomplete 
 
 # One time installation.
 ```
