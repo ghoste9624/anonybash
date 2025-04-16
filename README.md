@@ -109,6 +109,7 @@ git clone https://github.com/ghoste9624/anonybash
 cd anonybash 
 chmod +x *
 ./anon-default.sh 
+exit
 ```
 <br>
 <br>
