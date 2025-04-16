@@ -32,9 +32,9 @@ Modify your colors.properties file.
 ```
 nano ~/.termux/colors.properties
 ```
-``
+
 [256 ANSI Color Codes](https://hexdocs.pm/color_palette/ansi_color_codes.html)
-``
+
 Modify your termux.properties file.
 ```
 nano ~/.termux/termux.properties
