@@ -67,10 +67,10 @@ cd ~
 rm -rf anonybash 
 git clone https://github.com/ghoste9624/anonybash 
 cd anonybash 
-chmod +x termux-start 
+chmod +x * 
 ./termux-start.sh 
 ```
-# anonyzsh
+# anonyzsh.sh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-163038_Termux.jpg)
 
 * Run the following in zsh for autocomplete. Exit zsh and reenter for changes.
@@ -80,8 +80,8 @@ rm -rf anonybash
 git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git
 git clone https://github.com/ghoste9624/anonybash 
 cd anonybash 
-chmod 777 -R anonyzsh
-bash anonyzsh
+chmod +x *
+./anonyzsh.sh
 ```
 # anon.classic.sh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-185302_Termux.jpg)
