@@ -1,9 +1,7 @@
 # anonybash
-
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-191015_Termux.jpg)
 
 # Features
-``
 * anonymous MOTD
 * uptime 
 * date & time 
@@ -17,7 +15,7 @@
 * termux-start package installer
 * tstyle font and theme mods
 * anonyzsh zsh autocomplete 
-``
+
 # One time installation.
 ```
 apt update && apt full-upgrade -y && pkg update && pkg upgrade -y && pkg install git zsh -y 
@@ -60,11 +58,9 @@ https://hexdocs.pm/color_palette/ansi_color_codes.html
 nano ~/.termux/termux.properties
 ```
 # termux-start 
-
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-134711_Termux.jpg)
 
 # Full package installer with tstyle.
-
 (about 2.9 gigs)
 ```
 git clone https://github.com/ghoste9624/anonybash 
@@ -74,7 +70,6 @@ chmod +x termux-start
 bash termux-start
 ```
 # anonyzsh
-
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-163038_Termux.jpg)
 
 Run the following in zsh for autocomplete. Exit zsh and reenter for changes.
