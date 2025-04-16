@@ -63,11 +63,12 @@ nano ~/.termux/termux.properties
 # Full package installer with tstyle
 (about 2.9 gigs)
 ```
+cd ~
+rm -rf anonybash 
 git clone https://github.com/ghoste9624/anonybash 
-git pull
 cd anonybash 
 chmod +x termux-start 
-bash termux-start
+./termux-start
 ```
 # anonyzsh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-163038_Termux.jpg)
