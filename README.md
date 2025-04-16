@@ -68,7 +68,3 @@ cd anonybash
 chmod 777 -R anonyzsh
 bash anonyzsh
 ```
-
-https://<!--This is a comment-->gist.github.com/<!--This is, too-->alexpeattie/4729247
-# give:
-https://gist.github.com/alexpeattie/4729247
