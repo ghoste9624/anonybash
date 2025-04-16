@@ -2,6 +2,18 @@
 
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-191015_Termux.jpg)
 
+#Features
+* Anonymous MOTD
+* Uptime 
+* Date & time 
+* Extra keys
+* Flashing green cursor
+* Red directory 
+* Session count
+* Green font output
+* Added colors
+* Setup for easy modifications
+
 One time installation.
 ```
 apt update && apt full-upgrade -y && pkg update && pkg upgrade -y && pkg install git zsh -y 
