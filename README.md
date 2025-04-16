@@ -91,6 +91,7 @@ chmod +x *
 exit
 ```
 # anon-classic-batt.sh
+![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-185131_Termux.jpg)
 ```
 cd ~
 cd anonybash 
