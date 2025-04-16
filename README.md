@@ -86,6 +86,7 @@ bash anonyzsh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-185302_Termux.jpg)
 ```
 cd ~
+rm -rf anonybash 
 git clone https://github.com/ghoste9624/anonybash
 cd anonybash 
 chmod +x *
@@ -96,6 +97,7 @@ exit
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-185131_Termux.jpg)
 ```
 cd ~
+rm -rf anonybash 
 git clone https://github.com/ghoste9624/anonybash
 cd anonybash 
 chmod +x *
@@ -105,6 +107,7 @@ exit
 # anon-default.sh
 ```
 cd ~
+rm -rf anonybash
 git clone https://github.com/ghoste9624/anonybash
 cd anonybash 
 chmod +x *
