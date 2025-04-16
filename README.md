@@ -81,6 +81,23 @@ cd anonybash
 chmod 777 -R anonyzsh
 bash anonyzsh
 ```
+# anon.classic.sh
+```
+cd ~
+cd anonybash 
+chmod +x *
+./anon-classic.sh
+exit
+```
+# anon-classic-batt.sh
+```
+cd ~
+cd anonybash 
+chmod +x *
+./anon-classic-batt.sh
+exit
+```
+
 <br>
 <br>
 
