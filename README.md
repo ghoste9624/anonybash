@@ -48,6 +48,7 @@ nano ~/.termux/termux.properties
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-134711_Termux.jpg)
 
 Full package installer with tstyle.
+
 (about 2.9 gigs)
 ```
 git clone https://github.com/ghoste9624/anonybash 
