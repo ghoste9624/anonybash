@@ -14,6 +14,7 @@
 * termux-start full package installer with tstyle for easy font and theme mods
 * anonyzsh zsh autocomplete
 * setup for easy modifications
+* classic anonymous options
 
 # anonybash one time installation
 ```
@@ -35,7 +36,7 @@ nano /data/data/com.termux/files/home/.bashrc
 nano /data/data/com.termux/files/usr/etc/motd/10-anonymous-logo
 ```
 
-issues? Remove any extra paths at the bottom of the usr/etc/profile file. There MUST be one path called
+* issues? Remove any extra paths at the bottom of the usr/etc/profile file. There MUST be one path called
 /data/data/com.termux/files/usr/etc/motd/init.sh
 ```
 nano /data/data/com.termux/files/usr/etc/profile
@@ -71,7 +72,7 @@ bash termux-start
 # anonyzsh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-163038_Termux.jpg)
 
-Run the following in zsh for autocomplete. Exit zsh and reenter for changes.
+* Run the following in zsh for autocomplete. Exit zsh and reenter for changes.
 ```
 cd $HOME
 rm -rf anonybash 
@@ -101,7 +102,14 @@ chmod +x *
 ./anon-classic-batt.sh
 exit
 ```
-
+# anon-default.sh
+```
+cd ~
+git clone https://github.com/ghoste9624/anonybash
+cd anonybash 
+chmod +x *
+./anon-default.sh 
+```
 <br>
 <br>
 
