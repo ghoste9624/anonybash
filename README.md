@@ -70,3 +70,5 @@ cd anonybash
 chmod 777 -R anonyzsh
 bash anonyzsh
 ```
+
+![Visitor Count](https://profile-counter.glitch.me/{ghoste9624}/count.svg)
