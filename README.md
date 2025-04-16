@@ -49,6 +49,9 @@ chmod +x termux-start
 bash termux-start
 ```
 # anonyzsh
+
+![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-163038_Termux.jpg)
+
 Run the following in zsh for autocomplete. Exit zsh and reenter for changes.
 ```
 cd $HOME
