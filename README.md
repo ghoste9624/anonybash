@@ -34,10 +34,10 @@ nano ~/.termux/colors.properties
 ```
 
 [256 ANSI Color Codes](https://hexdocs.pm/color_palette/ansi_color_codes.html)
+
 ``
 https://hexdocs.pm/color_palette/ansi_color_codes.html
 ``
-Modify
 
 Modify your termux.properties file.
 ```
