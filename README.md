@@ -85,6 +85,7 @@ bash anonyzsh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-185302_Termux.jpg)
 ```
 cd ~
+git clone https://github.com/ghoste9624/anonybash
 cd anonybash 
 chmod +x *
 ./anon-classic.sh
@@ -94,6 +95,7 @@ exit
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-185131_Termux.jpg)
 ```
 cd ~
+git clone https://github.com/ghoste9624/anonybash
 cd anonybash 
 chmod +x *
 ./anon-classic-batt.sh
