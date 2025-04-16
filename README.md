@@ -18,6 +18,8 @@
 
 # anonybash one time installation
 ```
+cd ~
+rm -rf anonybash
 apt update && apt full-upgrade -y && pkg update && pkg upgrade -y && pkg install git zsh -y 
 git clone https://github.com/ghoste9624/anonybash 
 cd anonybash 
@@ -75,7 +77,7 @@ chmod +x *
 
 * Run the following in zsh for autocomplete. Exit zsh and reenter for changes.
 ```
-cd $HOME
+cd ~
 rm -rf anonybash 
 git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git
 git clone https://github.com/ghoste9624/anonybash 
