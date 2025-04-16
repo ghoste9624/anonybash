@@ -59,7 +59,7 @@ https://hexdocs.pm/color_palette/ansi_color_codes.html
 ```
 nano ~/.termux/termux.properties
 ```
-# termux-start 
+# termux-start.sh 
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-134711_Termux.jpg)
 
 # Full package installer with tstyle
