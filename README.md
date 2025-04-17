@@ -164,7 +164,19 @@ rm -rf ~/.bashrc
 exit
 ```
 or simply switch to another prompt. 
+# extra keys from command line
+```
+echo "terminal-cursor-blink-rate=500
 
+extra-keys = [ \
+ ['ESC','/','-','HOME','UP','END','PGUP','BKSP'], \
+ ['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN','ENTER'] \
+]" >> ~/.termux/termux.properties
+
+termux-reload-settings 
+
+exit
+```
 
 <br>
 <br>
