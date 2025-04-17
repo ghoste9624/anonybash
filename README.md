@@ -15,6 +15,7 @@
 * anonyzsh zsh autocomplete
 * setup for easy modifications
 * classic anonymous options
+* switch up prompts from the command line 
 
 # anonybash one time installation
 ```
