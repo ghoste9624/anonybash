@@ -139,6 +139,16 @@ chmod +x *
 ./anon-default.sh 
 exit
 ```
+# uninstall.sh
+```
+cd ~
+rm -rf anonybash
+git clone https://github.com/ghoste9624/anonybash
+cd anonybash 
+chmod +x *
+./uninstall.sh 
+exit
+```
 
 <br>
 <br>
