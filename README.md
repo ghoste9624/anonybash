@@ -136,7 +136,7 @@ rm -rf anonybash
 git clone https://github.com/ghoste9624/anonybash
 cd anonybash 
 chmod +x *
-./anon-kali.sh 
+./anon-parrot.sh 
 exit
 ```
 
