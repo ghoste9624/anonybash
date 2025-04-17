@@ -107,16 +107,6 @@ chmod +x *
 ./anon-classic-batt.sh
 exit
 ```
-# anon-default.sh
-```
-cd ~
-rm -rf anonybash
-git clone https://github.com/ghoste9624/anonybash
-cd anonybash 
-chmod +x *
-./anon-default.sh 
-exit
-```
 # anon-kali.sh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-210529_Termux.jpg)
 ```
@@ -137,6 +127,16 @@ git clone https://github.com/ghoste9624/anonybash
 cd anonybash 
 chmod +x *
 ./anon-parrot.sh 
+exit
+```
+# anon-default.sh
+```
+cd ~
+rm -rf anonybash
+git clone https://github.com/ghoste9624/anonybash
+cd anonybash 
+chmod +x *
+./anon-default.sh 
 exit
 ```
 
