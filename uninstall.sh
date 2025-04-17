@@ -1,6 +1,7 @@
 cd $HOME
 
 rm -rf anonybash 
+rm -rf tstyle
 rm -rf ~/.bashrc
 rm -rf ~/.termux/termux.properties
 rm -rf ~/.termux/colors.properties
