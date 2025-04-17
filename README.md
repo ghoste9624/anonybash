@@ -117,6 +117,18 @@ chmod +x *
 ./anon-default.sh 
 exit
 ```
+# anon-kali.sh
+![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-210529_Termux.jpg)
+```
+cd ~
+rm -rf anonybash
+git clone https://github.com/ghoste9624/anonybash
+cd anonybash 
+chmod +x *
+./anon-kali.sh 
+exit
+```
+
 <br>
 <br>
 
