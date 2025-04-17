@@ -164,7 +164,7 @@ rm -rf ~/.bashrc
 exit
 ```
 or simply switch to another prompt. 
-# extra keys from command line
+# extra keys and blinking cursor from command line
 ```
 echo "terminal-cursor-blink-rate=500
 
