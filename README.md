@@ -132,6 +132,7 @@ chmod +x *
 exit
 ```
 # anon-default.sh
+![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250417-192802_Termux.jpg)
 ```
 cd ~
 rm -rf anonybash
