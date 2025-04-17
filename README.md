@@ -40,7 +40,7 @@ nano /data/data/com.termux/files/home/.bashrc
 nano /data/data/com.termux/files/usr/etc/motd/10-anonymous-logo
 ```
 
-* issues? Remove any extra paths at the bottom of the usr/etc/profile file. There MUST be one path called
+⁉️ issues? Remove any extra paths at the bottom of the usr/etc/profile file. There MUST be one path called
 /data/data/com.termux/files/usr/etc/motd/init.sh
 ```
 nano /data/data/com.termux/files/usr/etc/profile
