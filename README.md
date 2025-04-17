@@ -1,5 +1,5 @@
 # anonybash
-![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250415-191015_Termux.jpg)
+![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250415-191015_Termux.jpg)
 
 # Features
 * anonymous MOTD
