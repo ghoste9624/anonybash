@@ -15,8 +15,9 @@
 * anonyzsh zsh autocomplete
 * setup for easy modifications
 * classic anonymous options
-* switch between prompts from the command line 
-
+* Install and switch between prompts from the command line
+* prompts only? no problem, anonybash MOTD installation is not required
+  
 # anonybash one time installation
 ```
 cd ~
