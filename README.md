@@ -1,4 +1,4 @@
-# anonybash
+# anonybash 🎩
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250415-191015_Termux.jpg)
 
 # Features
@@ -145,9 +145,9 @@ exit
 # uninstall.sh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250417-170537_Termux.jpg)
 
-Uninstall everything at once 
+💥 UNINSTALL EVERYTHING AT ONCE
 
-⚠️ONLY USE THIS COMMAND IF YOU HAVE YOUR anonybash/anon.sh MOTD INSTALLED. 
+⚠️ ONLY USE THIS COMMAND IF YOU HAVE YOUR anonybash/anon.sh MOTD INSTALLED. 
 
 NOTE: If you use this command without anonybash motd installed you will get an error in usr/etc/profile since you just removed the last line ``fi``
 ```
