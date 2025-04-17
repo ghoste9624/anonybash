@@ -159,6 +159,7 @@ exit
 IF YOU ALREADY REMOVED THE MOTD OR NEVER INSTALLED IT REMOVE THE BASH PROMPT BY ITSELF USE: 
 ```
 rm -rf ~/.bashrc 
+exit
 ```
 or simply switch to another prompt. 
 
