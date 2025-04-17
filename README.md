@@ -175,7 +175,7 @@ extra-keys = [ \
 
 termux-reload-settings 
 
-exit
+clear && exit
 ```
 # colors on command 
 ```
@@ -190,6 +190,10 @@ color4=#0000FF
 color5=#FF00FF
 color6=#00FFFF
 color7=#FFFFFF" >> ~/.termux/colors.properties
+
+termux-reload-settings
+
+clear && exit
 ```
 
 <br>
