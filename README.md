@@ -145,7 +145,7 @@ exit
 
 Uninstall everything at once 
 
-⚠️ONLY USE THIS COMMAND IF YOU HAVE YOUR ANONYBASH MOTD INSTALLED. 
+⚠️ONLY USE THIS COMMAND IF YOU HAVE YOUR anonybash/anon.sh MOTD INSTALLED. 
 
 NOTE: If you use this command without anonybash motd installed you will get an error in usr/etc/profile since you just removed the last line ``fi``
 ```
