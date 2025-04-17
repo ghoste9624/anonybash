@@ -129,7 +129,7 @@ chmod +x *
 exit
 ```
 # anon-parrot.sh
-![alt text]((https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-222136_Termux.jpg)
+![alt text](https://github.com/ghoste9624/anonybash/blob/main/Screenshot_20250416-222136_Termux.jpg)
 ```
 cd ~
 rm -rf anonybash
