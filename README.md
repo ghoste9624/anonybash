@@ -141,13 +141,12 @@ exit
 ```
 # uninstall.sh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250417-170537_Termux.jpg)
+
 Uninstall everything at once 
 
-ONLY USE THIS COMMAND IF YOU HAVE YOUR ANONYBASH MOTD INSTALLED. TO REMOVE THE BASH PROMPT BY ITSELF USE: 
-```
-rm -rf ~/.bashrc 
-```
-or simply switch to another prompt. if you use this command without anonybash motd installed you will get an error in usr/etc/profile since you just removed the last line ``fi``
+ONLY USE THIS COMMAND IF YOU HAVE YOUR ANONYBASH MOTD INSTALLED. 
+
+if you use this command without anonybash motd installed you will get an error in usr/etc/profile since you just removed the last line ``fi``
 ```
 cd ~
 rm -rf anonybash
@@ -157,6 +156,12 @@ chmod +x *
 ./uninstall.sh 
 exit
 ```
+IF YOU ALREADY REMOVED THE MOTD OR NEVER INSTALLED IT REMOVE THE BASH PROMPT BY ITSELF USE: 
+```
+rm -rf ~/.bashrc 
+```
+or simply switch to another prompt. 
+
 
 <br>
 <br>
