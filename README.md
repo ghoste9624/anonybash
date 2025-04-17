@@ -144,9 +144,9 @@ exit
 Uninstall everything at once 
 
 ONLY USE THIS COMMAND IF YOU HAVE YOUR ANONYBASH MOTD INSTALLED. TO REMOVE THE BASH PROMPT BY ITSELF USE: 
-``
+```
 rm -rf ~/.bashrc 
-``
+```
 or simply switch to another prompt. if you use this command without anonybash motd installed you will get an error in usr/etc/profile since you just removed the last line ``fi``
 ```
 cd ~
