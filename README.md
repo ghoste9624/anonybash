@@ -192,14 +192,6 @@ clear && exit
 💥 Uninstall everything at once 
 
 ⚠️ ONLY USE THIS COMMAND IF YOU HAVE YOUR ``anonybash/anon.sh`` MOTD INSTALLED. 
-
-NOTE: If you use this command without anonybash motd installed you will get an error in ``usr/etc/profile`` since you just removed the bottom line ``fi`` fix it, Run this command:
-
-```
-echo "fi" >> /data/data/com.termux/files/usr/etc/profile
-termux-reload-settings 
-clear && exit
-```
 ```
 cd ~
 rm -rf anonybash
@@ -208,6 +200,12 @@ cd anonybash
 chmod +x *
 ./uninstall.sh 
 exit
+```
+NOTE: If you use this command without anonybash motd installed you will get an error in ``usr/etc/profile`` since you just removed the bottom line ``fi`` fix it, Run this command:
+```
+echo "fi" >> /data/data/com.termux/files/usr/etc/profile
+termux-reload-settings 
+clear && exit
 ```
 IF YOU ALREADY REMOVED THE MOTD OR NEVER INSTALLED IT REMOVE THE BASH PROMPT BY ITSELF USE: 
 ```
