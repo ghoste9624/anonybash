@@ -22,14 +22,14 @@
   
 # anonybash one time installation
 ```
-cd ~
+`cd ~
 rm -rf anonybash
 apt update && apt full-upgrade -y && pkg update && pkg upgrade -y && pkg install git zsh -y 
 git clone https://github.com/ghoste9624/anonybash 
 cd anonybash 
 chmod +x anon.sh
 bash anon.sh
-exit
+exit`
 ```
 
 # modify your .bashrc file 
