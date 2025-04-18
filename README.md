@@ -38,6 +38,10 @@ nano /data/data/com.termux/files/home/.bashrc
 
 # modify your MOTD directory & files
 ```
+cd /data/data/com.termux/files/usr/etc/motd 
+ls -a
+```
+```
 nano /data/data/com.termux/files/usr/etc/motd/10-anonymous-logo
 ```
 
