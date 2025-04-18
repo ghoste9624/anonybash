@@ -21,7 +21,7 @@
 * updates and tools coming soon 🎭
   
 # anonybash one time installation
-```
+```bash
 cd ~
 rm -rf anonybash
 apt update && apt full-upgrade -y && pkg update && pkg upgrade -y && pkg install git zsh -y 
