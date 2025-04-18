@@ -83,7 +83,7 @@ clear && exit
 ```
 nano ~/.termux/termux.properties
 ```
-# extra keys and blinking cursor from command line
+# extra keys and blinking cursor on command 
 ```
 echo "terminal-cursor-blink-rate=500
 
