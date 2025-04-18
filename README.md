@@ -17,6 +17,7 @@
 * classic anonymous options
 * Install and switch between prompts from the command line
 * prompts only? no problem, anonybash MOTD installation is not required
+* updates and tools coming soon 🎭
   
 # anonybash one time installation
 ```
