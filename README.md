@@ -107,7 +107,7 @@ clear && exit
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250415-134711_Termux.jpg)
 
 # Full package installer with tstyle
-(about 2.9 gigs)
+(about 3 gigs)
 ```
 cd ~
 rm -rf anonybash 
