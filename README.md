@@ -53,7 +53,10 @@ If you choose to remove the anonybash MOTD, you can remove this path from the bo
 ```
 nano /data/data/com.termux/files/usr/etc/profile
 ```
-
+or from command...
+```
+sed -i '$d' /data/data/com.termux/files/usr/etc/profile
+```
 # modify your colors.properties file
 ```
 nano ~/.termux/colors.properties
