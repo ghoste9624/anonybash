@@ -180,6 +180,12 @@ chmod +x *
 ./anon-default.sh 
 exit
 ```
+# termux-default 
+```
+echo "PS1='\[\033[0;32m\]\w \[\033[0;37m\]\$\e[0m '" > ~/.bashrc
+termux-reload-settings 
+clear && exit
+```
 # uninstall.sh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250417-170537_Termux.jpg)
 
