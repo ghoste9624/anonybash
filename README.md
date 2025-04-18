@@ -56,6 +56,7 @@ nano /data/data/com.termux/files/usr/etc/profile
 or from command...
 ```
 sed -i '$d' /data/data/com.termux/files/usr/etc/profile
+clear && exit
 ```
 # modify your colors.properties file
 ```
