@@ -61,10 +61,40 @@ nano ~/.termux/colors.properties
 ``
 https://hexdocs.pm/color_palette/ansi_color_codes.html
 ``
+# colors on command 
+```
+echo "background=#000000
+foreground=#D7FFFF
+cursor=#00FF00
+color0=#000000
+color1=#FF0000
+color2=#00FF00
+color3=#FFFF00
+color4=#0000FF
+color5=#FF00FF
+color6=#00FFFF
+color7=#FFFFFF" >> ~/.termux/colors.properties
 
+termux-reload-settings
+
+clear && exit
+```
 # modify your termux.properties file
 ```
 nano ~/.termux/termux.properties
+```
+# extra keys and blinking cursor from command line
+```
+echo "terminal-cursor-blink-rate=500
+
+extra-keys = [ \
+ ['ESC','/','-','HOME','UP','END','PGUP','BKSP'], \
+ ['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN','ENTER'] \
+]" >> ~/.termux/termux.properties
+
+termux-reload-settings 
+
+clear && exit
 ```
 # termux-start.sh 
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250415-134711_Termux.jpg)
@@ -170,37 +200,8 @@ rm -rf ~/.bashrc
 exit
 ```
 or simply switch to another prompt. 
-# extra keys and blinking cursor from command line
-```
-echo "terminal-cursor-blink-rate=500
 
-extra-keys = [ \
- ['ESC','/','-','HOME','UP','END','PGUP','BKSP'], \
- ['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN','ENTER'] \
-]" >> ~/.termux/termux.properties
 
-termux-reload-settings 
-
-clear && exit
-```
-# colors on command 
-```
-echo "background=#000000
-foreground=#D7FFFF
-cursor=#00FF00
-color0=#000000
-color1=#FF0000
-color2=#00FF00
-color3=#FFFF00
-color4=#0000FF
-color5=#FF00FF
-color6=#00FFFF
-color7=#FFFFFF" >> ~/.termux/colors.properties
-
-termux-reload-settings
-
-clear && exit
-```
 
 <br>
 <br>
