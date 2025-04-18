@@ -31,7 +31,8 @@ bash anon.sh
 exit
 ```
 
-# modify your .bashrc file, change your name or replace with ``\u`` to show user information
+# modify your .bashrc file 
+change your name or replace with ``\u`` to show user information
 ```
 nano /data/data/com.termux/files/home/.bashrc
 ```
