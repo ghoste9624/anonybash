@@ -31,7 +31,7 @@ bash anon.sh
 exit
 ```
 
-# modify your .bashrc file
+# modify your .bashrc file, change your name or replace with ``\u`` to show user information
 ```
 nano /data/data/com.termux/files/home/.bashrc
 ```
@@ -41,6 +41,7 @@ nano /data/data/com.termux/files/home/.bashrc
 cd /data/data/com.termux/files/usr/etc/motd 
 ls -a
 ```
+with nano, personalize your MOTD 
 ```
 nano /data/data/com.termux/files/usr/etc/motd/10-anonymous-logo
 ```
