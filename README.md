@@ -47,8 +47,9 @@ nano /data/data/com.termux/files/usr/etc/motd/10-anonymous-logo
 
 ⁉️ issues? Remove any extra paths at the bottom of the usr/etc/profile file. There MUST be one path called:
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250418-093934_Termux.jpg)
-``/data/data/com.termux/files/usr/etc/motd/init.sh``
-if you choose to remove the anonybash MOTD, you can remove this path from the bottom of the file.
+``/data/data/com.termux/files/usr/etc/motd/init.sh
+``
+If you choose to remove the anonybash MOTD, you can remove this path from the bottom of the file.
 ```
 nano /data/data/com.termux/files/usr/etc/profile
 ```
