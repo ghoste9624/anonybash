@@ -13,6 +13,7 @@
 * added colors
 * termux-start full package installer with tstyle for easy font and theme mods
 * anonyzsh zsh autocomplete
+* displays MOTD in both bash & zsh
 * setup for easy modifications
 * classic anonymous options
 * Install and switch between prompts from the command line
