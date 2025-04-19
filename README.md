@@ -215,10 +215,10 @@ termux-reload-settings
 clear && exit
 ```
 IF YOU ALREADY REMOVED THE MOTD OR NEVER INSTALLED IT REMOVE THE BASH PROMPT BY ITSELF USE: 
-`` ` `bash
+```bash
 rm -rf ~/.bashrc 
 clear && exit
-`` ` `
+```
 or simply switch to another prompt. 
 
 
