@@ -30,7 +30,7 @@ clear && echo -e "
    \e[3m\e[1;92mtermux-start...
 "
 
-apt update && apt full-upgrade -y && apt install wget zip unzip python python2 python-numpy python-cryptography python-lxml python-scipy nodejs-lts jq rsync sqlite libxml2-utils grep bc htop figlet httping dnsutils openssh ffmpeg php composer sox alsa-utils tmux neovim vim screen nano zsh fish tcsh beanshell nmap whois traceroute netcat-openbsd libffi emacs micro openssl cmatrix fortune screenfetch w3m cowsay curl perl ruby rust golang tor cloudflared fakeroot sshpass lychee proot proot-distro sed lynx rxfetch neofetch viu lazygit topgrade root-repo x11-repo tur-repo cmake make man mpv android-tools termux-am termux-api termux-exec termux-tools termux-keyring -y
+apt update && apt full-upgrade -y && apt install wget zip unzip python python2 python-numpy python-cryptography python-lxml python-scipy apt install nodejs nodejs-lts jq rsync sqlite libxml2-utils grep bc htop figlet httping dnsutils openssh ffmpeg php composer sox alsa-utils tmux neovim vim screen nano zsh fish tcsh beanshell nmap whois traceroute netcat-openbsd libffi emacs micro openssl cmatrix fortune screenfetch w3m cowsay curl perl ruby rust golang tor cloudflared fakeroot sshpass lychee proot proot-distro sed lynx rxfetch neofetch viu lazygit topgrade root-repo x11-repo tur-repo cmake make man mpv android-tools termux-am termux-api termux-exec termux-tools termux-keyring -y
 
 pip install google requests colorama setuptools bs4
 
