@@ -165,6 +165,15 @@ chmod +x *
 ./anon-kali.sh 
 exit
 ```
+```bash
+cd ~
+rm -rf anonybash
+git clone https://github.com/ghoste9624/anonybash
+cd anonybash 
+chmod +x *
+./anon-kali-red.sh 
+clear && exit
+```
 # anon-parrot.sh
 ![alt text](https://github.com/ghoste9624/anonybash/blob/main/screenshots%2FScreenshot_20250416-222136_Termux.jpg)
 ```bash
