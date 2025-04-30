@@ -231,7 +231,12 @@ clear && exit
 ```
 or simply switch to another prompt. 
 
+<br>
 
+# Last Updated 
+``
+April 30, 2025 01:00 EDT
+``
 
 <br>
 <br>
