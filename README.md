@@ -165,6 +165,7 @@ chmod +x *
 ./anon-kali.sh 
 exit
 ```
+# anon-kali-red.sh
 ```bash
 cd ~
 rm -rf anonybash
