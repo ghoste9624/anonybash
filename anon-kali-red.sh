@@ -8,6 +8,6 @@ echo "PS1='\[\033[0;94m\]┌──(\[\033[1;91m\]\u㉿kali\[\033[0;94m\])-[\[\03
 # enable color support of ls
 alias ls='ls --color=auto'
 alias dir='ls --color=auto --format=vertical'
-alias vdir='ls --color=auto --format=long'" >> ~/.bashrc
+alias vdir='ls --color=auto --format=long'" > ~/.bashrc
 source ~/.bashrc
 clear && exit
