@@ -112,6 +112,7 @@ clear && exit
 # Full package installer with tstyle
 (about 3 gigs)
 ```bash
+pkg install git -y
 cd ~
 rm -rf anonybash 
 git clone https://github.com/ghoste9624/anonybash 
